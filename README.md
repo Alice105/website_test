@@ -1,3 +1,10 @@
-# Sample document
+# Sample Website
 
-This is a sample document written for the tutorial [*Learn Enough Text Editor to Be Dangerous*](https://www.learnenough.com/text-editor) by [Michael Hartl](https://www.michaelhartl.com/). It's written in [Markdown](https://daringfireball.net/projects/markdown/), a plain-text format that's both easy to read and easy to convert to HTML. In later tutorials, we'll use Markdown for making README files designed to give a quick overview of a project's contents.
+This is a sample website made as part of [*Learn Enough Git to Be
+Dangerous*], possibly the greatest beginner Git tutorial in the history
+of the Universe.
+
+After finishing *Learn Enough Git to Be Dangerous*, you'll know enough Git
+to be *dangerous*. This means you'll be able to use Git to track changes in
+your projects, back up data, share your work with others, and collaborate
+with programmers and other users of Git.
